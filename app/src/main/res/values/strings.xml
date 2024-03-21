@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">submission_awal_fundamental</string>
+    <string name="nama_user">nama user</string>
+    <string name="username_user">username user</string>
+    <string name="id_user">id user</string>
+    <string name="tab_text_1">Following</string>
+    <string name="tab_text_2">Follower</string>
+
+
+</resources>
